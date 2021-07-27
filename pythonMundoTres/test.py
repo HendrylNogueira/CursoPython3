@@ -1,0 +1,6 @@
+print(f'{"cod nome":<18} {"gols":<10} {"total":>20}')
+print(f'-' * 50)
+print(f'{"0 "}', end='')
+print(f'{"nome":<17}', end='')
+print(f'{"3, 4":<10}', end='')
+print(f'{"5":>20}')
